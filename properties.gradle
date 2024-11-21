@@ -1,0 +1,14 @@
+/*
+ * Copyright (c) Benjamin Selig, 2024, licensed under the EUPL
+ */
+
+ext {
+    group = "dev.loapu"
+    author = "Loapu"
+    description = "Willkommen in Bennys Rechenzentrum!"
+    website = "https://loapu.dev"
+    majorVersion = 1
+    minorVersion = 0
+    javaTargetVersion = 21
+    paperApiVersion = "1.21"
+}

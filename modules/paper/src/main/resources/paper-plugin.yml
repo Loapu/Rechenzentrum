@@ -1,0 +1,7 @@
+name: "${projectName}"
+version: "${projectVersion}"
+main: "${projectGroup}.${moduleName}.RechenzentrumPlugin"
+description: "${projectDescription}"
+author: "${projectAuthor}"
+website: "${projectWebsite}"
+api-version: "${paperApiVersion}"
