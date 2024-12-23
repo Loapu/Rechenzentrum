@@ -1,6 +1,6 @@
 name: "${projectName}"
 version: "${projectVersion}"
-main: "${projectGroup}.${moduleName}.RechenzentrumPlugin"
+main: "${projectGroup}.${projectName.toLowerCase()}.${moduleName}.RechenzentrumPlugin"
 description: "${projectDescription}"
 author: "${projectAuthor}"
 website: "${projectWebsite}"

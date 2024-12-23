@@ -1,0 +1,6 @@
+server-links:
+  - name: "<b>Homepage"
+    url: "https://loapu.dev"
+  - name: "<b>Secret"
+    url: "https://loapu.dev/secret"
+    permission: "rechenzentrum.links.secret"

@@ -1,5 +1,5 @@
 [versions]
-adventure = "4.17.0"
+adventure = "4.18.0"
 paper = "1.21.3-R0.1-SNAPSHOT"
 shadow = "8.+"
 paperweight-userdev = "1.+"
